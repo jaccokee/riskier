@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "react": "^15.5.4",
-    "react-art": "^0.15.1",
     "react-dom": "^15.5.4",
     "svg-line": "0.0.0",
     "voronoi": "^1.0.0"
